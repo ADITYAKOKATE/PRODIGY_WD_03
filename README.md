@@ -8,3 +8,7 @@ The game interface is intuitive and user-friendly, featuring vibrant visuals and
 The responsive design ensures seamless performance on any device, whether on desktops, tablets, or mobile screens, making it easy to play anytime, anywhere. The game logic is optimized for fast, glitch-free interactions, with instant updates to the board after each move.
 
 This Tic-Tac-Toe Web Application is perfect for casual gaming, educational purposes, or simply as a fun coding project. It’s easy to use, engaging, and designed with clean, minimalistic aesthetics that make the gameplay enjoyable for players of all ages.
+
+## Screenshots
+<img src="Screenshot 2025-03-05 130209.png" width="500"><img src="Screenshot 2025-03-05 130156.png" width="500">
+
